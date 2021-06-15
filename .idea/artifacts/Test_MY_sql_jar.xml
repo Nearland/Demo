@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Test MY_sql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Test_MY_sql_jar</output-path>
+    <root id="archive" name="Test MY_sql.jar">
+      <element id="module-output" name="Test MY_sql" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/d/mysql-connector-java-8.0.24/mysql-connector-java-8.0.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/d/mysql-connector-java-5.1.23-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
